@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot name="heading">
-        Job Listings
+        Job Listings for free
     </x-slot>
 
     <div class="bg-gradient-to-r from-blue-500 to-purple-600 min-h-screen py-10">
